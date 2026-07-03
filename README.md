@@ -19,5 +19,6 @@ Worked with retail EDI transactions and formats including:
 - VAN (Value Added Network) transmission
 - EDI mapping/translation tools
 - B2B integration between retail systems and suppliers
+- 
 ## Other work
 See pinned repos below for testing/automation projects (Selenium, TestNG, REST Assured, API testing).
