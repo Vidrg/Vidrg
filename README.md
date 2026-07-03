@@ -1,7 +1,3 @@
-## Hi there 👋
-
-Healthcare interoperability — how patient data moves between systems (HL7v2, EDI, CDA/C-CDA, FHIR)
-
 
 ## Healthcare Interoperability
 
